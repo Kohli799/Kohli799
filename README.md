@@ -66,18 +66,11 @@
 | 🎥 **DevMeet – Real-time Video Conferencing** | Next.js video meeting app with chat & collaboration tools. |
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kohli799&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kohli799&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kohli799&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📊 GitHub Stats  
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshkohdtw2&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkohdtw2&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://streak-stats.demolab.com/?user=harshkohdtw2&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
 
 ---
 
