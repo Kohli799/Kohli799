@@ -1,15 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Hey there! I'm <span style="color:#7CDE7C;">Harsh Kohli</span></h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshkohdtw2&color=brightgreen" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/harshkohdtw2"><img src="https://img.shields.io/github/followers/harshkohdtw2?label=Followers&style=social"></a>
-  <a href="https://github.com/harshkohdtw2"><img src="https://img.shields.io/github/stars/harshkohdtw2?label=Stars&style=social"></a>
-</p>
-
 <h3 align="center">
   Java Developer | Full-Stack Engineer | Cloud & DevOps Enthusiast  
 </h3>
@@ -88,10 +79,9 @@
 
 # 📫 Connect With Me  
 
-[![Email](https://img.shields.io/badge/Email-kohliharsh35%40gmail.com-red?logo=gmail&logoColor=white)](mailto:kohliharsh35@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Kohli-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshkohli)  
-[![GitHub](https://img.shields.io/badge/GitHub-harshkohdtw2-black?logo=github&logoColor=white)](https://github.com/harshkohdtw2)  
-[![Twitter](https://img.shields.io/badge/X-@harshkohdtw2-black?logo=x&logoColor=white)](https://x.com/harshkohdtw2)
+[![Email](https://img.shields.io/badge/Email-harshkohli7258@gmail.com-red?logo=gmail&logoColor=white)](mailto:harshkohli7258@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Kohli-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshkohli1)  
+[![GitHub](https://img.shields.io/badge/GitHub-Harsh%20Kohli-black?logo=github&logoColor=white)](https://github.com/Kohli799)  
 
 ---
 
