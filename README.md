@@ -1,18 +1,106 @@
-# 💫 About Me:
-👋 Hi, I'm Harsh Kohli<br><br>A dedicated Computer Science undergraduate with a strong foundation in Data Structures & Algorithms, Object-Oriented Programming, and full-stack development. I’ve solved 500+ DSA problems and enjoy building scalable, impactful software solutions.<br><br>I have hands-on experience in cloud operations, ITSM workflows, and DevOps pipelines, gained during my internship at Accenture India, where I worked across AWS, Azure, and GCP to improve cost efficiency and observability.<br><br>I love creating meaningful projects—ranging from MERN applications to algorithm visualizers—and constantly explore new technologies to grow as an engineer.<br><br>🔭 I’m currently working on<br><br>Full-stack web applications (React, Node.js)<br><br>Cloud engineering and cost optimization<br><br>Strengthening DSA & system design fundamentals<br><br>🤝 I’m looking to collaborate on<br><br>Java / MERN stack projects<br><br>Cloud, DevOps, and automation workflows<br><br>🌱 I’m currently learning<br><br>Advanced cloud concepts (AWS | Azure | GCP)<br><br>Observability tools & DevOps practices<br><br>Backend architecture and microservices<br><br>💬 Ask me about<br><br>Java, React.js, Node.js, MongoDB<br><br>DSA strategies (500+ problems solved!)<br><br>Cloud computing, ITSM, ServiceNow<br><br>⚡ Fun fact<br><br>I secured AIR 31 in IIT Bombay’s National Entrepreneurship Challenge and won 1st place at the BIS National Ideathon—I love solving problems through creativity and technology!
+<!-- Header -->
+<h1 align="center">👋 Hey there! I'm <span style="color:#7CDE7C;">Harsh Kohli</span></h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshkohdtw2&color=brightgreen" alt="Profile Views"/>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshkohli1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshkohli7258@gmail.com) 
+<p align="center">
+  <a href="https://github.com/harshkohdtw2"><img src="https://img.shields.io/github/followers/harshkohdtw2?label=Followers&style=social"></a>
+  <a href="https://github.com/harshkohdtw2"><img src="https://img.shields.io/github/stars/harshkohdtw2?label=Stars&style=social"></a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kohli799&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kohli799&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kohli799&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">
+  Java Developer | Full-Stack Engineer | Cloud & DevOps Enthusiast  
+</h3>
+
+<p align="center">
+🚀 Building scalable backend systems, intuitive UIs & cloud-optimized architectures  
+<br/>
+🧠 Solved <b>500+ DSA problems</b> | Java • Spring Boot • React • Node.js • AWS • GCP • Azure  
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kohli799&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack  
+
+### **Languages**
+![Java](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-61dafb?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E96228?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-2862e9?logo=css3&logoColor=white)
+
+### **Backend**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-3E6E93?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?logo=mongodb&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-black?logo=amazonaws&logoColor=orange)
+![GCP](https://img.shields.io/badge/GCP-4285f4?logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-90C53F?logo=servicenow&logoColor=white)
+
+---
+
+# 🚀 Featured Projects  
+
+| Project | Description |
+|--------|-------------|
+| 🎽 **Trendify – E-Commerce Website** | MERN-based app with JWT authentication, secure APIs, and product workflows. |
+| 🛤️ **Train Ticket Reservation System** | Spring Boot + MySQL based railway reservation platform. |
+| 📍 **Shortest Path Finder Visualizer** | BFS, DFS, and Dijkstra’s algorithm visualized with React. |
+| 🩺 **Heart Disease Prediction System** | Random Forest ML model for early disease risk detection. |
+| ☁️ **CloudExpense – Cost Optimizer Dashboard** | React + Node + AWS for cloud cost tracking & optimization. |
+| 🎥 **DevMeet – Real-time Video Conferencing** | Next.js video meeting app with chat & collaboration tools. |
+
+---
+
+# 📊 GitHub Stats  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshkohdtw2&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkohdtw2&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://streak-stats.demolab.com/?user=harshkohdtw2&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+# 🏆 Highlights & Achievements  
+
+- 🧠 Solved **500+ DSA problems**
+- 🎓 Certifications: AWS Cloud | Cisco Cybersecurity | Python Essentials | ServiceNow
+- 🥇 **1st Place – BIS National Ideathon**
+- 🥈 **AIR 31 – IIT Bombay National Entrepreneurship Challenge**
+- 🚀 Selected in **HackWithIndia**, **Reckon 5.0**, **Innotech 2024**, **SSoC Contributor**
+- 🎤 **TEDxKIET Organizer** & **E-Cell Event Lead**
+- ☁️ **Cloud Manager & Optimizer Intern @ Accenture India**
+
+---
+
+# 📫 Connect With Me  
+
+[![Email](https://img.shields.io/badge/Email-kohliharsh35%40gmail.com-red?logo=gmail&logoColor=white)](mailto:kohliharsh35@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Kohli-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshkohli)  
+[![GitHub](https://img.shields.io/badge/GitHub-harshkohdtw2-black?logo=github&logoColor=white)](https://github.com/harshkohdtw2)  
+[![Twitter](https://img.shields.io/badge/X-@harshkohdtw2-black?logo=x&logoColor=white)](https://x.com/harshkohdtw2)
+
+---
+
+<h2 align="center">🔥 “Build fast. Solve smart. Ship impactful.” 🔥</h2>
+
